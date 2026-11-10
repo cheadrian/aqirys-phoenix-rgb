@@ -28,7 +28,7 @@ for interoperability. No vendor files are included.
 2. Download this repository (green **Code → Download ZIP** button, then extract)
    or clone it:
    ```
-   git clone https://github.com/<your-user>/aqirys-phoenix-rgb.git
+   git clone https://github.com/cheadrian/aqirys-phoenix-rgb.git
    cd aqirys-phoenix-rgb
    ```
 3. Check that the mouse is detected:
